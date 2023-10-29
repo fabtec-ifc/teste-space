@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1 class="teste">Teste</h1>
+    <h1 class="teste">Teste</h1>
     <button onclick="teste();">OK</button>
 </body>
 </html>
